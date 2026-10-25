@@ -1,4 +1,4 @@
-# Otter Verify
+AntlordTNG Otter Verify
 
 - Stores data necessary to verify an on-chain program.
 - This generates a PDA (Program Derived Address) using the `Program address + Seeds`. The PDA holds the parameters needed for the verification of the specific program.
